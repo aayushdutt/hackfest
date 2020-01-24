@@ -27,7 +27,7 @@ const Footer = () => (
 				<a className="insta-link" href="http://www.instagram.com/hackfestiitism">Instagram</a>
 			</div>
 			<div className="division copyright" >
-				[ Developed by <a href="https://www.github.com/devesh2997">Devesh Anand</a>, <a href="https://github.com/PsYcO-kk">Kumar Kshitij </a>and <a href="https://github.com/akashagarwal0403">Akash Agarwal.</a> ]
+				[ Developed by <a href="https://www.github.com/anjaney11">Lead Developer - Anjaney</a> ]
 			</div>
 		</footer>
 	</ScrollableAnchor>

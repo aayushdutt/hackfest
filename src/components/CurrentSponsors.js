@@ -87,7 +87,15 @@ export default class CurrentSponsors extends React.Component {
 								<img src="./assets/images/sponsors/challengerocket.png" className="img-fluid" />
 							</a>
 						</div>
-						<div className="more">And more on their way ...</div>
+					</Container>
+					<Container>
+						<h2 className="section-header">Message from the Lead Developer</h2>
+						<div className="sponsors-list">
+							<video width="480" height="640" controls>
+								<source src="assets/bondMessage.mp4" type="video/mp4"/>
+								Your browser does not support the video tag.
+							</video>
+						</div>
 					</Container>
 				</section>
 			</ScrollableAnchor>
